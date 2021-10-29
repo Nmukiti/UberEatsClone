@@ -17,6 +17,7 @@
 
 ## 🚀 How to use
 
+<img src="https://user-images.githubusercontent.com/37476772/139421873-2f7f5bbd-fd8d-4e53-9652-d890c484a00c.PNG" width="50%" height="50%">
 ![IMG_0167](https://user-images.githubusercontent.com/37476772/139421873-2f7f5bbd-fd8d-4e53-9652-d890c484a00c.PNG)
 ![IMG_0168](https://user-images.githubusercontent.com/37476772/139421896-ef4809e7-6831-4399-9a91-1dfadea509c8.PNG)
 ![IMG_0169](https://user-images.githubusercontent.com/37476772/139421908-e06a7175-3809-4366-8ec5-79904b4eaa5b.PNG)
