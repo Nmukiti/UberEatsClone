@@ -16,6 +16,9 @@
 </p>
 
 ## 🚀 How to use
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <style>	
 	.column {
 	  float: left;
@@ -26,6 +29,8 @@
 	  width: 100%;
 	}	
 </style>
+	</head> 
+	<body>
 
 <div class="container">
   <div class="column">
@@ -44,6 +49,8 @@
 <img src="https://user-images.githubusercontent.com/37476772/139421913-228242c1-8f57-4f1c-8ff4-fe88fcaf3f15.PNG" width="30%" height="25%">
   </div>
   </div>
+	</body>
+	</html>
  
 
 
